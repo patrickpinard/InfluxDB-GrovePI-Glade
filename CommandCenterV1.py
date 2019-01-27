@@ -30,7 +30,7 @@ influxDBDATABASE = 'InfluxDB DB name'
 
 
 #Glade information
-GladeName        = "CommandCenterV3.glade"
+GladeName        = "CommandCenterV1.glade"
 GladeWindow      = "fenetre"
 
 #information sur capteur pour InfluxDB
